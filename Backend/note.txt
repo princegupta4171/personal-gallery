@@ -1,0 +1,33 @@
+imagekit.io
+
+
+npm init -y
+
+npm i express mongoose
+
+
+
+npx nodemon server.js
+
+
+
+npm i multer //  it for wo way mean as middleware
+
+imagekit docs = npm install @imagekit/nodejs
+
+
+npm i dotenv //credentials
+
+
+front end 
+
+1.  npm i react-router-dom
+              i have forcely fis it -> npm audit fix --force  
+
+2. to connect frontend and backend 
+            npm i axios
+            or
+            npm i axios --legacy-peer-deps
+
+
+ab mai bata do cors policy ye allow nahi karegiki app alag alag porta pe connect ho paye iske liye backend pe (  npm i cors )  intall kare
